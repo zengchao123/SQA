@@ -29,9 +29,7 @@ the intent of finding software bugs (errors or other defects).
     2.works as expected,
     3.can be implemented with the same characteristics,
     4.and satisfies the needs of stakeholders. 
-
-  
-    Five things we should always keep in mind:
+  Five things we should always keep in mind:
     1.	Understand what the software is supposed to do. 
     2.	Decide how to verify that it does. 
     3.	Agree your test strategy with the stake-holders: there should be people who care about whether you are testing the right things, they need to have confidence that you are doing so. 
